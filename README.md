@@ -35,14 +35,13 @@ You are required to:
 
  ## Development
 
----
 
 Well, as you know, the server-side/validation is done in **PHP**.  
 The frontend view is done with **HTML5** and **CSS3**.  
 A little client-side backend with **JQuery**.  
 
 ### How to Use
----  
+=== 
 *(Ignore form.html)*
 
 > cd <WAMP www or XAMP htdoc or Project Folder>
