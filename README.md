@@ -44,8 +44,8 @@ A little client-side backend with **JQuery**.
 --- 
 *(Ignore form.html)*
 
-> cd <WAMP www or XAMP htdoc or Project Folder>
+> cd *WAMP www or XAMP htdoc or Project Folder*
 
 > git clone http://github.com/MickStick/WSDI-TEST-2017
 
-> php -S 0.0.0.0:<port> (if not using AMP Environment)
+> php -S 0.0.0.0:*port* (if not using AMP Environment)
