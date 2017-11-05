@@ -12,7 +12,7 @@
 As mentioned in class last week, this piece of assessment will replace you test. 
 You are REQUIRED TO SUBMIT BY SUNDAY, NOVEMBER 5, 2017
 
-TOTAL MARKS [30 MARKS]
+> TOTAL MARKS [30 MARKS]
 
 
 A form has been provided.
