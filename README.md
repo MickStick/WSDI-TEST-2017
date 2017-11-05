@@ -41,7 +41,7 @@ The frontend view is done with **HTML5** and **CSS3**.
 A little client-side backend with **JQuery**.  
 
 ### How to Use
-=== 
+--- 
 *(Ignore form.html)*
 
 > cd <WAMP www or XAMP htdoc or Project Folder>
