@@ -43,6 +43,19 @@
             $degErr = "Must Select A Course";
         }
 
+        if(empty($idErr) && empty($fnErr) && empty($genErr) && empty($ayErr) && empty($emErr) && empty($degErr)){
+            $handle = fopen('demographics.txt','a');
+            fwrite($handle, "| ".$idnum.", ".$fname." ".$lname.", ".$ay.PHP_EOL);
+            fclose($handle);
+            $handle = fopen('study.txt','a');
+            fwrite($handle, "| ".$idnum.", ".$deg.PHP_EOL);
+            fclose($handle);
+            $handle = fopen('contact.txt','a');
+            fwrite($handle, "| ".$idnum.", ".$cell.", ".$em.PHP_EOL);
+            fclose($handle);
+            header("location:/");
+        }
+
     }
 
     /*$handle = fopen('test.txt','a');
